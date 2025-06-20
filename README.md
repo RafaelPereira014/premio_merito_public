@@ -1,5 +1,8 @@
 # Azorean Merit Award Application Portal
 
+
+## 🔗 [Live Now](https://dev-premio-merito.edu.azores.gov.pt/)
+
 Welcome to the **Azorean Merit Award Application Portal**, a web-based platform designed to streamline the application process for Azorean candidates seeking the prestigious Merit Award.
 
 ---
@@ -17,7 +20,7 @@ Welcome to the **Azorean Merit Award Application Portal**, a web-based platform 
 - **Real-Time Updates**: Send notifications to candidates instantly.
 
 ### 🔒 Secure & Reliable
-- **Data Security**: Built with robust SQL databases and secure password hashing (bcrypt).
+- **Data Security**: Built with robust SQL databases and secure password hashing.
 - **Session Management**: Powered by Redis for optimized performance and security.
 
 ---
@@ -43,11 +46,10 @@ Welcome to the **Azorean Merit Award Application Portal**, a web-based platform 
 ## 🚶‍♂️ Getting Started
 
 ### For Candidates
-1. **Register**: Create an account to begin your application.
-2. **Fill Out Forms**: Complete the application with accurate information.
-3. **Upload Documents**: Attach all required files.
-4. **Submit**: Confirm and submit your application.
-5. **Track Status**: Receive updates on the progress of your application.
+1. **Fill Out Forms**: Complete the application with accurate information.
+2. **Upload Documents**: Attach all required files.
+3. **Submit**: Confirm and submit your application.
+4. **Track Status**: Receive updates on the progress of your application.
 
 ### For Administrators
 1. **Log In**: Access the admin dashboard.
